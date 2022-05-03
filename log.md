@@ -10,8 +10,12 @@
   - Master basics in Linux, networking, sysadmin & CLI
   - Create 1 complete personal project
 
+- Purpose: I'd like to become a Linux or Unix System Administrator. In order to demonstrate the required skills, I need to acquire certifications and build personal projects. 
+
 - Log:
-  -  
+  - Forked #100DaysofCode repo in GitHub 
+  - Learned Bash in fCC
+
 
 
 **Thoughts**: 
