@@ -10,7 +10,8 @@
   - Master basics in Linux, networking, sysadmin & CLI
   - Create 1 complete personal project
 
-Log:
+- Log:
+  -  
 
 
 **Thoughts**: 
