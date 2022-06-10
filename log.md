@@ -58,18 +58,18 @@ Walked through building a Mario-themed database in the terminal. Learned how to 
 
 👩‍💻 Learned about how to search & install Linux packages depending on their two main types (DEB vs RPM)
 
-**Thoughts**: 
 
 **Link(s) to work**: https://www.freecodecamp.org/Neenzilla
 -----------------------------------------------------------------------------------------------------------------------
-### Day x: xx/xx/xxxx
+### Day x: 6/10/2022
 
 **Today's Progress**: 
+🏕 When creating columns with string values, you have to use the data type VARCHAR. The Primary Key is used to uniquely identify a column and its associated rows
+
+👩‍💻Reviewed data sharing, basic network admin and open source office apps
 
 
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: https://www.freecodecamp.org/Neenzilla
 -----------------------------------------------------------------------------------------------------------------------
 ### Day x: xx/xx/xxxx
 
