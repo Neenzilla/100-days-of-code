@@ -1,5 +1,8 @@
 # 100 Days Of Code - Log
 
+## Key: 
+🏕 = freeCodeCamp
+👩‍💻 = Personal project/studying
 
 ### Day 1: 5/3/2022
 
@@ -23,26 +26,75 @@
 **Link(s) to work**: 
 
 -----------------------------------------------------------------------------------------------------------------------
-### Day 2: 5/4/2022
+### Day 2: 5/5/2022
 
 **Today's Progress**: 
+Finished the bash tutorial in 
+@freeCodeCamp
+ Relational Databases course
+
+Learned how to recursively remove & copy directories. The find command is also useful for keeping track of file trees as I'm deleting/creating files
+
+**Link(s) to work**: https://www.freecodecamp.org/Neenzilla
+-----------------------------------------------------------------------------------------------------------------------
+### Day 3: 6/7/2022
+
+**Today's Progress**: 
+Finished the PostgreSQL database basics tutorial in 
+@freeCodeCamp
+ 
+
+Walked through building a Mario-themed database in the terminal. Learned how to search for info via one-to-one / one-to-many relationships
+
+
+**Link(s) to work**: https://www.freecodecamp.org/Neenzilla
+-----------------------------------------------------------------------------------------------------------------------
+### Day 4: 6/8/2022
+
+**Today's Progress**: 
+🏕 Started the 
+@freeCodeCamp
+ Celestial Bodies project. Finding it difficult to create my own database, PostgreSQL is an adjustment 
+
+👩‍💻 Learned about how to search & install Linux packages depending on their two main types (DEB vs RPM)
+
+**Thoughts**: 
+
+**Link(s) to work**: https://www.freecodecamp.org/Neenzilla
+-----------------------------------------------------------------------------------------------------------------------
+### Day x: xx/xx/xxxx
+
+**Today's Progress**: 
+
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 -----------------------------------------------------------------------------------------------------------------------
-### Day 3: 5/5/2022
+### Day x: xx/xx/xxxx
 
 **Today's Progress**: 
+
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 -----------------------------------------------------------------------------------------------------------------------
-### Day 4: 5/6/2022
+### Day x: xx/xx/xxxx
 
 **Today's Progress**: 
+
 
 **Thoughts**: 
 
 **Link(s) to work**: 
+-----------------------------------------------------------------------------------------------------------------------
+### Day x: xx/xx/xxxx
+
+**Today's Progress**: 
+
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
